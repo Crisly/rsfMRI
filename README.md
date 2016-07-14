@@ -22,7 +22,7 @@ Finally a rsfMRI time series preprocessing workflow is used to filter out physio
 #Graphs    
 The various functione result in a graph describing the flow of the data:<br>
 ![realignment](https://github.com/Crisly/rsfMRI/blob/master/realign.png)
-![normalization](https://github.com/Crisly/rsfMRI/blob/master/realign.png)
+![normalization](https://github.com/Crisly/rsfMRI/blob/master/normalization.png)
 
 The complete graph looks like this:
 ![complete](https://github.com/Crisly/rsfMRI/blob/master/rsfMRI_complete.png)
